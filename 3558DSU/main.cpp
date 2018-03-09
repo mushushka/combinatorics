@@ -17,6 +17,7 @@ struct DSU {
     }
 
     void print() {
+        cout << "digraph g {" << endl;
         for (int i = 0; i < parent.size(); ++i) {
             if (parent[i] != -1) {
                 cout << i << "->" << parent[i] << endl;
@@ -24,6 +25,7 @@ struct DSU {
                 cout << i << endl;
             }
         }
+        cout << "}" << endl;
     }
 
     void reset(int n) {
@@ -92,7 +94,7 @@ int main() {
     newdsu.check(9, 1);
     newdsu.join(6, 5);
     newdsu.check(10, 5);
-    // newdsu.print();
+    newdsu.print();
 
     return 0;
 }
