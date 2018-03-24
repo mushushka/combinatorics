@@ -1,0 +1,10 @@
+/Users/elenasermagina/Desktop/combinatorics/combinatorics/PyramidSort/PyramidSort/bin/Debug/netcoreapp2.0/PyramidSort.deps.json
+/Users/elenasermagina/Desktop/combinatorics/combinatorics/PyramidSort/PyramidSort/bin/Debug/netcoreapp2.0/PyramidSort.runtimeconfig.json
+/Users/elenasermagina/Desktop/combinatorics/combinatorics/PyramidSort/PyramidSort/bin/Debug/netcoreapp2.0/PyramidSort.runtimeconfig.dev.json
+/Users/elenasermagina/Desktop/combinatorics/combinatorics/PyramidSort/PyramidSort/bin/Debug/netcoreapp2.0/PyramidSort.dll
+/Users/elenasermagina/Desktop/combinatorics/combinatorics/PyramidSort/PyramidSort/bin/Debug/netcoreapp2.0/PyramidSort.pdb
+/Users/elenasermagina/Desktop/combinatorics/combinatorics/PyramidSort/PyramidSort/obj/Debug/netcoreapp2.0/PyramidSort.csproj.CoreCompileInputs.cache
+/Users/elenasermagina/Desktop/combinatorics/combinatorics/PyramidSort/PyramidSort/obj/Debug/netcoreapp2.0/PyramidSort.AssemblyInfoInputs.cache
+/Users/elenasermagina/Desktop/combinatorics/combinatorics/PyramidSort/PyramidSort/obj/Debug/netcoreapp2.0/PyramidSort.AssemblyInfo.cs
+/Users/elenasermagina/Desktop/combinatorics/combinatorics/PyramidSort/PyramidSort/obj/Debug/netcoreapp2.0/PyramidSort.dll
+/Users/elenasermagina/Desktop/combinatorics/combinatorics/PyramidSort/PyramidSort/obj/Debug/netcoreapp2.0/PyramidSort.pdb
